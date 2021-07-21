@@ -1,7 +1,8 @@
 import { spawn } from "child_process";
 import { Readable } from "stream";
+import * as _ from "lodash";
 
-export function getInfo(img: Buffer): Promise<Object[]> {
+export function getInfo(img: Buffer): Promise<Object> {
     return new Promise((resolve, reject): void => {
         let res = '';
         const proc = spawn(
@@ -21,7 +22,9 @@ export function getInfo(img: Buffer): Promise<Object[]> {
             if (code !== 0) {
                 return reject(`grep process exited with code ${code}`)
             }
-            return resolve(JSON.parse(res));
+            res = JSON.parse(res)[0].image;
+            _.unset(res, 'properties');
+            return resolve(res);
         });
     });
 }

@@ -40,12 +40,8 @@ const pictureSchema = new Schema({
         type: String,
         required: true,
     },
-    width: {
-        type: Schema.Types.Number,
-        comment: "srcsset descriptor",
-    },
     data: {
-        type: Buffer,
+        type: Schema.Types.Buffer,
         required: true,
     },
     info: Schema.Types.Mixed
@@ -57,11 +53,11 @@ const pictureSchema = new Schema({
         getters: true
     },
     toJSON: {
-        getters: true
+        virtuals: true
     },
 });
-pictureSchema.path('width').get(function (v) {
-    return v + 'w';
+pictureSchema.virtual('width').get(function () {
+    return this.info.geometry.width + 'w';
 });
 const Pic = mongoose.model("pic", pictureSchema);
 Database.Pic = Pic;

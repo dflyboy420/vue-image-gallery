@@ -28,13 +28,17 @@ app.post('/upload', upload.array("img", 5), async (req, res) => {
         fileName: i.originalname,
         fileType: i.mimetype,
         data: i.buffer,
-        info: i.info[0].image,
-        width: i.info[0].image.geometry.width,
+        info: i.info,
     }});
 
     const docs = await Database.Pic.insertMany(img);
     console.debug(docs);
     res.sendStatus(204);
+});
+
+app.get('/list', async (req, res) => {
+    const docs = await Database.Pic.find({}, {data: 0}).exec();
+    res.json(docs);
 });
 
 const HTTP_PORT = config.get('web.port');

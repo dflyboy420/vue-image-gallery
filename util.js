@@ -3,6 +3,7 @@ exports.__esModule = true;
 exports.getInfo = void 0;
 var child_process_1 = require("child_process");
 var stream_1 = require("stream");
+var _ = require("lodash");
 function getInfo(img) {
     return new Promise(function (resolve, reject) {
         var res = '';
@@ -19,7 +20,9 @@ function getInfo(img) {
             if (code !== 0) {
                 return reject("grep process exited with code " + code);
             }
-            return resolve(JSON.parse(res));
+            res = JSON.parse(res)[0].image;
+            _.unset(res, 'properties');
+            return resolve(res);
         });
     });
 }
