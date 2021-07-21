@@ -29,6 +29,8 @@
     "winston": "^3.3.3"
   },
   "devDependencies": {
+    "@types/config": "0.0.39",
+    "@types/lodash": "^4.14.171",
     "eslint": "^7.31.0"
   }
 }

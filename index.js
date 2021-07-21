@@ -4,7 +4,7 @@ const _ = require("lodash");
 const mongoose = require("mongoose");
 const cors = require('cors');
 const Database = require('./database');
-const {getInfo} = require('./util');
+const {getInfo, convert} = require('./util');
 
 var multer = require("multer");
 var storage = multer.memoryStorage();
@@ -26,13 +26,20 @@ app.post('/upload', upload.array("img", 5), async (req, res) => {
     let img = await Promise.all(props);
     img = _.map(img, i => {return {
         fileName: i.originalname,
-        fileType: i.mimetype,
         data: i.buffer,
         info: i.info,
     }});
 
     const docs = await Database.Pic.insertMany(img);
     console.debug(docs);
+
+    for(let i of img) {
+        let webp = i;
+        webp.data = await convert(i.data, "webp");
+        webp.info = await getInfo(webp.data);
+        await Database.Pic.create(webp);
+    }
+
     res.sendStatus(204);
 });
 

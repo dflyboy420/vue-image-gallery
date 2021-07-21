@@ -10,7 +10,17 @@
     // account: 'sb-zpmco4060738@business.example.com',
     host: "192.168.1.4", //sandbox or live
     // db: 'vacanjo',
-    detect_buffers: true
-
+    detect_buffers: true,
+  },
+  image: {
+    conversion: {
+      jpg: "-sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -colorspace sRGB",
+      webp: "-strip -quality 80 -define webp:auto-filter=true -define webp:image-hint=photo",
+      thumbs: {
+        jpg: "-sampling-factor 4:2:0 -strip -resize 700x -quality 85 -interlace JPEG -colorspace sRGB",
+        webp: "-strip -resize 700x -quality 70 -define webp:auto-filter=true -define webp:image-hint=photo",
+        crop: "-set option:distort:viewport '%[fx: w>h ? h : w ]x%[fx: w>h ? h : w ]+%[fx: w>h ? (w-h)/2 : 0 ]+%[fx: w>h ? 0 : (h-w)/2 ]' -filter point -distort SRT 0 +repage",
+      },
+    },
   },
 }

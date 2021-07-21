@@ -34,11 +34,8 @@ Database.connection = mongoose.connection;
 const pictureSchema = new Schema({
     fileName: {
         type: String,
+        index: true,
         // required: true,
-    },
-    fileType: {
-        type: String,
-        required: true,
     },
     data: {
         type: Schema.Types.Buffer,
@@ -50,7 +47,7 @@ const pictureSchema = new Schema({
         createdAt: 'uploadTime',
     },
     toObject: {
-        getters: true
+        virtuals: true
     },
     toJSON: {
         virtuals: true
@@ -59,6 +56,12 @@ const pictureSchema = new Schema({
 pictureSchema.virtual('width').get(function () {
     return this.info.geometry.width + 'w';
 });
+pictureSchema.virtual('fileType').get(function () {
+    return this.info.mimeType;
+});
+pictureSchema.index({fileName: 1, 'this.info.mimeType': 1});
+pictureSchema.index({fileName: 1, 'this.info.mimeType': 1, 'this.info.geometry.width': -1});
+
 const Pic = mongoose.model("pic", pictureSchema);
 Database.Pic = Pic;
 
