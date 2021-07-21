@@ -1,0 +1,16 @@
+{
+  web: {
+    port: 8088,
+    // baseUrl: "https://vacanjo.dpulm.online",
+  },
+  mongodb: {
+    url: "mongodb://localhost:27017/pics?retryWrites=true&w=majority",
+  },
+  redis: {
+    // account: 'sb-zpmco4060738@business.example.com',
+    host: "192.168.1.4", //sandbox or live
+    // db: 'vacanjo',
+    detect_buffers: true
+
+  },
+}
