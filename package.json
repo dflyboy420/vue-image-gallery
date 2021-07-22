@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@types/node": "^16.4.0",
+    "async": "^3.2.0",
     "config": "^3.3.6",
     "cors": "^2.8.5",
     "express": "^4.17.1",
@@ -29,6 +30,7 @@
     "winston": "^3.3.3"
   },
   "devDependencies": {
+    "@types/async": "^3.2.7",
     "@types/config": "0.0.39",
     "@types/lodash": "^4.14.171",
     "eslint": "^7.31.0"

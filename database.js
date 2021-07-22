@@ -59,8 +59,96 @@ pictureSchema.virtual('width').get(function () {
 pictureSchema.virtual('fileType').get(function () {
     return this.info.mimeType;
 });
-pictureSchema.index({fileName: 1, 'this.info.mimeType': 1});
-pictureSchema.index({fileName: 1, 'this.info.mimeType': 1, 'this.info.geometry.width': -1});
+pictureSchema.methods.getVersions = function (cb) {
+    return mongoose.model('pic').aggregate([{
+        '$match': {
+            'fileName': this.fileName
+        }
+    }, {
+        '$project': {
+            'fileName': 1,
+            'info.mimeType': 1,
+            'info.geometry.width': 1
+        }
+    }, {
+        '$group': {
+            '_id': '$info.mimeType',
+            'sizes': {
+                '$push': {
+                    'size': '$info.geometry.width',
+                    'id': '$_id'
+                }
+            }
+        }
+    }], cb);
+}
+
+pictureSchema.statics.findVersions = function (name) {
+    return this.aggregate([{
+        '$match': {
+            'fileName': name
+        }
+    }, {
+        '$project': {
+            'fileName': 1,
+            'info.mimeType': 1,
+            'info.geometry.width': 1
+        }
+    }, {
+        '$group': {
+            '_id': '$info.mimeType',
+            'sizes': {
+                '$push': {
+                    'size': '$info.geometry.width',
+                    'id': '$_id'
+                }
+            }
+        }
+    }, {
+        '$project': {
+            'type': '$_id',
+            'sizes': 1,
+            '_id': 0
+        }
+    }]).limit(1).exec();
+}
+
+pictureSchema.statics.getPics = function () {
+    return this.aggragate([{
+        '$project': {
+            'fileName': 1,
+            'info.mimeType': 1,
+            'info.geometry.width': 1
+        }
+    }, {
+        '$group': {
+            '_id': '$fileName',
+            'formats': {
+                '$push': {
+                    'size': '$info.geometry.width',
+                    'type': '$info.mimeType',
+                    'id': '$_id'
+                }
+            }
+        }
+    }, {
+        '$project': {
+            'name': '$_id',
+            'formats': 1,
+            '_id': 0
+        }
+    }]).exec();
+}
+
+pictureSchema.index({
+    fileName: 1,
+    'this.info.mimeType': 1
+});
+pictureSchema.index({
+    fileName: 1,
+    'this.info.mimeType': 1,
+    'this.info.geometry.width': -1
+});
 
 const Pic = mongoose.model("pic", pictureSchema);
 Database.Pic = Pic;
