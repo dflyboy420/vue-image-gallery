@@ -31,32 +31,30 @@ app.post("/upload", upload.array("img", 5), async (req, res) => {
     };
   });
 
-  const docs = Database.Pic.insertMany(img);
-
   // create a queue object with concurrency 2
   var q = async.queue(function (i, callback) {
     async.parallel(
       [
         async function () {
-          let webp = i;
+          let webp = _.clone(i);
           webp.data = await convert(i.data, "webp");
           webp.info = await getInfo(webp.data);
           await Database.Pic.create(webp);
         },
         async function () {
-          let webp = i;
+          let webp = _.clone(i);
           webp.data = await convertThumb(i.data, "webp");
           webp.info = await getInfo(webp.data);
           await Database.Pic.create(webp);
         },
         async function () {
-          let jpg = i;
+          let jpg = _.clone(i);
           jpg.data = await convert(i.data, "jpg");
           jpg.info = await getInfo(jpg.data);
           await Database.Pic.create(jpg);
         },
         async function () {
-          let jpg = i;
+          let jpg = _.clone(i);
           jpg.data = await convertThumb(i.data, "jpg");
           jpg.info = await getInfo(jpg.data);
           await Database.Pic.create(jpg);
@@ -92,7 +90,7 @@ app.get("/list", async (req, res) => {
 
 app.get("/list/:name", async (req, res) => {
   const docs = await Database.Pic.findVersions(req.params.name);
-  res.json(docs[0]);
+  res.json(docs);
 });
 
 app.get("/img/:id", async (req, res) => {
