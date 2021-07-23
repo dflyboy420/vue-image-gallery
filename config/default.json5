@@ -8,11 +8,12 @@
   },
   redis: {
     // account: 'sb-zpmco4060738@business.example.com',
-    host: "127.0.0.1", //sandbox or live
+    // host: "127.0.0.1", //sandbox or live
     // db: 'vacanjo',
     return_buffers: true,
     db: 8,
-    ttl: 86400
+    ttl: 60,
+    socket: "/var/run/redis/redis-server.sock"
   },
   image: {
     conversion: {

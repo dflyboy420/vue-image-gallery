@@ -1,0 +1,3847 @@
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.83 s (3 s + 826813561 ns)
+
+all benchmarks completed
+ok ~3.83 s (3 s + 826813561 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 506943990 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 506943990 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.86 s (3 s + 858237315 ns)
+
+all benchmarks completed
+ok ~3.86 s (3 s + 858237315 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 452848950 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 452848950 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.43 s (3 s + 430854334 ns)
+
+all benchmarks completed
+ok ~3.43 s (3 s + 430854334 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 451752827 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 451752827 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 384219743 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 384219743 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 445151295 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 445151295 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.54 s (3 s + 544229038 ns)
+
+all benchmarks completed
+ok ~3.54 s (3 s + 544229038 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.28 s (3 s + 276809268 ns)
+
+all benchmarks completed
+ok ~3.28 s (3 s + 276809268 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 469443153 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 469443153 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 435088989 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 435088989 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.3 s (3 s + 295585781 ns)
+
+all benchmarks completed
+ok ~3.3 s (3 s + 295585781 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.79 s (3 s + 788895163 ns)
+
+all benchmarks completed
+ok ~3.79 s (3 s + 788895163 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.74 s (3 s + 737978287 ns)
+
+all benchmarks completed
+ok ~3.74 s (3 s + 737978287 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 372147318 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 372147318 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.15 s (3 s + 146711275 ns)
+
+all benchmarks completed
+ok ~3.15 s (3 s + 146711275 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.92 s (3 s + 922935538 ns)
+
+all benchmarks completed
+ok ~3.92 s (3 s + 922935538 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.66 s (3 s + 659506727 ns)
+
+all benchmarks completed
+ok ~3.66 s (3 s + 659506727 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.46 s (3 s + 462933730 ns)
+
+all benchmarks completed
+ok ~3.46 s (3 s + 462933730 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.43 s (3 s + 427691433 ns)
+
+all benchmarks completed
+ok ~3.43 s (3 s + 427691433 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.59 s (3 s + 587816439 ns)
+
+all benchmarks completed
+ok ~3.59 s (3 s + 587816439 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.75 s (3 s + 750708149 ns)
+
+all benchmarks completed
+ok ~3.75 s (3 s + 750708149 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 406088654 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 406088654 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.34 s (3 s + 341951714 ns)
+
+all benchmarks completed
+ok ~3.34 s (3 s + 341951714 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 490959393 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 490959393 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 465446654 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 465446654 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.53 s (3 s + 526518934 ns)
+
+all benchmarks completed
+ok ~3.53 s (3 s + 526518934 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 384826316 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 384826316 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.28 s (3 s + 276788880 ns)
+
+all benchmarks completed
+ok ~3.28 s (3 s + 276788880 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 388770414 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 388770414 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.25 s (3 s + 249619907 ns)
+
+all benchmarks completed
+ok ~3.25 s (3 s + 249619907 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.16 s (3 s + 155878584 ns)
+
+all benchmarks completed
+ok ~3.16 s (3 s + 155878584 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.54 s (3 s + 540506123 ns)
+
+all benchmarks completed
+ok ~3.54 s (3 s + 540506123 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 369612806 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 369612806 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 411029782 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 411029782 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.18 s (3 s + 180874331 ns)
+
+all benchmarks completed
+ok ~3.18 s (3 s + 180874331 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 387226463 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 387226463 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 365039714 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 365039714 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.34 s (3 s + 342619312 ns)
+
+all benchmarks completed
+ok ~3.34 s (3 s + 342619312 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.55 s (3 s + 550890598 ns)
+
+all benchmarks completed
+ok ~3.55 s (3 s + 550890598 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 333913530 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 333913530 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.46 s (3 s + 462880035 ns)
+
+all benchmarks completed
+ok ~3.46 s (3 s + 462880035 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 439924047 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 439924047 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 363454830 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 363454830 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 368625309 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 368625309 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 360871053 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 360871053 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 332710764 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 332710764 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 487842289 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 487842289 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.59 s (3 s + 585099937 ns)
+
+all benchmarks completed
+ok ~3.59 s (3 s + 585099937 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.5 s (3 s + 504960310 ns)
+
+all benchmarks completed
+ok ~3.5 s (3 s + 504960310 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.3 s (3 s + 299376277 ns)
+
+all benchmarks completed
+ok ~3.3 s (3 s + 299376277 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.22 s (3 s + 221706558 ns)
+
+all benchmarks completed
+ok ~3.22 s (3 s + 221706558 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.54 s (3 s + 537150426 ns)
+
+all benchmarks completed
+ok ~3.54 s (3 s + 537150426 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 405324094 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 405324094 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 405313350 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 405313350 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 358068878 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 358068878 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 413292058 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 413292058 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 405704562 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 405704562 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.42 s (3 s + 416791165 ns)
+
+all benchmarks completed
+ok ~3.42 s (3 s + 416791165 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 517255535 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 517255535 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.57 s (3 s + 571657062 ns)
+
+all benchmarks completed
+ok ~3.57 s (3 s + 571657062 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.27 s (3 s + 272438497 ns)
+
+all benchmarks completed
+ok ~3.27 s (3 s + 272438497 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.69 s (3 s + 689886795 ns)
+
+all benchmarks completed
+ok ~3.69 s (3 s + 689886795 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 439926065 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 439926065 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 520330620 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 520330620 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.55 s (3 s + 546735833 ns)
+
+all benchmarks completed
+ok ~3.55 s (3 s + 546735833 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 412886245 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 412886245 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 486859557 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 486859557 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.22 s (3 s + 224484741 ns)
+
+all benchmarks completed
+ok ~3.22 s (3 s + 224484741 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.63 s (3 s + 630922418 ns)
+
+all benchmarks completed
+ok ~3.63 s (3 s + 630922418 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 466499715 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 466499715 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.65 s (3 s + 646144052 ns)
+
+all benchmarks completed
+ok ~3.65 s (3 s + 646144052 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 447208128 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 447208128 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.23 s (3 s + 234592390 ns)
+
+all benchmarks completed
+ok ~3.23 s (3 s + 234592390 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 409776793 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 409776793 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.57 s (3 s + 568288490 ns)
+
+all benchmarks completed
+ok ~3.57 s (3 s + 568288490 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.87 s (3 s + 869153644 ns)
+
+all benchmarks completed
+ok ~3.87 s (3 s + 869153644 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 489034624 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 489034624 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 392961129 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 392961129 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.35 s (3 s + 354265084 ns)
+
+all benchmarks completed
+ok ~3.35 s (3 s + 354265084 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.43 s (3 s + 432977733 ns)
+
+all benchmarks completed
+ok ~3.43 s (3 s + 432977733 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 389398354 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 389398354 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.57 s (3 s + 572060044 ns)
+
+all benchmarks completed
+ok ~3.57 s (3 s + 572060044 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.62 s (3 s + 618013546 ns)
+
+all benchmarks completed
+ok ~3.62 s (3 s + 618013546 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.42 s (3 s + 424033897 ns)
+
+all benchmarks completed
+ok ~3.42 s (3 s + 424033897 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 441184868 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 441184868 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.59 s (3 s + 592492774 ns)
+
+all benchmarks completed
+ok ~3.59 s (3 s + 592492774 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.67 s (3 s + 670073936 ns)
+
+all benchmarks completed
+ok ~3.67 s (3 s + 670073936 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.66 s (3 s + 659814357 ns)
+
+all benchmarks completed
+ok ~3.66 s (3 s + 659814357 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 477785746 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 477785746 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.59 s (3 s + 588561045 ns)
+
+all benchmarks completed
+ok ~3.59 s (3 s + 588561045 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 392987472 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 392987472 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.25 s (3 s + 245786372 ns)
+
+all benchmarks completed
+ok ~3.25 s (3 s + 245786372 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 482241869 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 482241869 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.46 s (3 s + 460959115 ns)
+
+all benchmarks completed
+ok ~3.46 s (3 s + 460959115 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.53 s (3 s + 526075295 ns)
+
+all benchmarks completed
+ok ~3.53 s (3 s + 526075295 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 514038396 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 514038396 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 510527286 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 510527286 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 333456567 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 333456567 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 412512829 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 412512829 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.4 s (3 s + 403760761 ns)
+
+all benchmarks completed
+ok ~3.4 s (3 s + 403760761 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.58 s (3 s + 578598766 ns)
+
+all benchmarks completed
+ok ~3.58 s (3 s + 578598766 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.57 s (3 s + 566235836 ns)
+
+all benchmarks completed
+ok ~3.57 s (3 s + 566235836 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.25 s (3 s + 251931812 ns)
+
+all benchmarks completed
+ok ~3.25 s (3 s + 251931812 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.12 s (3 s + 116239273 ns)
+
+all benchmarks completed
+ok ~3.12 s (3 s + 116239273 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 325582016 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 325582016 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.18 s (3 s + 175831900 ns)
+
+all benchmarks completed
+ok ~3.18 s (3 s + 175831900 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 408498758 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 408498758 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 521617590 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 521617590 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.34 s (3 s + 335472572 ns)
+
+all benchmarks completed
+ok ~3.34 s (3 s + 335472572 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.4 s (3 s + 401088060 ns)
+
+all benchmarks completed
+ok ~3.4 s (3 s + 401088060 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.32 s (3 s + 324519827 ns)
+
+all benchmarks completed
+ok ~3.32 s (3 s + 324519827 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.32 s (3 s + 315706859 ns)
+
+all benchmarks completed
+ok ~3.32 s (3 s + 315706859 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 391741558 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 391741558 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 436207972 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 436207972 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.3 s (3 s + 297870647 ns)
+
+all benchmarks completed
+ok ~3.3 s (3 s + 297870647 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.26 s (3 s + 256013867 ns)
+
+all benchmarks completed
+ok ~3.26 s (3 s + 256013867 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.29 s (3 s + 290713902 ns)
+
+all benchmarks completed
+ok ~3.29 s (3 s + 290713902 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 390008514 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 390008514 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.35 s (3 s + 354297984 ns)
+
+all benchmarks completed
+ok ~3.35 s (3 s + 354297984 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 376383144 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 376383144 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 446494246 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 446494246 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.34 s (3 s + 337671146 ns)
+
+all benchmarks completed
+ok ~3.34 s (3 s + 337671146 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.53 s (3 s + 533654290 ns)
+
+all benchmarks completed
+ok ~3.53 s (3 s + 533654290 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 470896568 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 470896568 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.22 s (3 s + 220576682 ns)
+
+all benchmarks completed
+ok ~3.22 s (3 s + 220576682 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 508384469 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 508384469 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.35 s (3 s + 347359662 ns)
+
+all benchmarks completed
+ok ~3.35 s (3 s + 347359662 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.13 s (3 s + 132767888 ns)
+
+all benchmarks completed
+ok ~3.13 s (3 s + 132767888 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~4.07 s (4 s + 72801074 ns)
+
+all benchmarks completed
+ok ~4.07 s (4 s + 72801074 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 506649580 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 506649580 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.76 s (3 s + 758716670 ns)
+
+all benchmarks completed
+ok ~3.76 s (3 s + 758716670 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.69 s (3 s + 688696800 ns)
+
+all benchmarks completed
+ok ~3.69 s (3 s + 688696800 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 505832800 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 505832800 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.55 s (3 s + 553361363 ns)
+
+all benchmarks completed
+ok ~3.55 s (3 s + 553361363 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.88 s (3 s + 884703327 ns)
+
+all benchmarks completed
+ok ~3.88 s (3 s + 884703327 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.65 s (3 s + 645787391 ns)
+
+all benchmarks completed
+ok ~3.65 s (3 s + 645787391 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.79 s (3 s + 792590739 ns)
+
+all benchmarks completed
+ok ~3.79 s (3 s + 792590739 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.64 s (3 s + 640344264 ns)
+
+all benchmarks completed
+ok ~3.64 s (3 s + 640344264 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.69 s (3 s + 692112974 ns)
+
+all benchmarks completed
+ok ~3.69 s (3 s + 692112974 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.43 s (3 s + 425686544 ns)
+
+all benchmarks completed
+ok ~3.43 s (3 s + 425686544 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.4 s (3 s + 403022142 ns)
+
+all benchmarks completed
+ok ~3.4 s (3 s + 403022142 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.26 s (3 s + 260973079 ns)
+
+all benchmarks completed
+ok ~3.26 s (3 s + 260973079 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.46 s (3 s + 463661628 ns)
+
+all benchmarks completed
+ok ~3.46 s (3 s + 463661628 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.27 s (3 s + 269258533 ns)
+
+all benchmarks completed
+ok ~3.27 s (3 s + 269258533 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.55 s (3 s + 550022412 ns)
+
+all benchmarks completed
+ok ~3.55 s (3 s + 550022412 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 507226815 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 507226815 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.28 s (3 s + 282861844 ns)
+
+all benchmarks completed
+ok ~3.28 s (3 s + 282861844 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.5 s (3 s + 496791649 ns)
+
+all benchmarks completed
+ok ~3.5 s (3 s + 496791649 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~4.26 s (4 s + 258503137 ns)
+
+all benchmarks completed
+ok ~4.26 s (4 s + 258503137 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.86 s (3 s + 856153578 ns)
+
+all benchmarks completed
+ok ~3.86 s (3 s + 856153578 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.8 s (3 s + 802802419 ns)
+
+all benchmarks completed
+ok ~3.8 s (3 s + 802802419 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.96 s (3 s + 960051654 ns)
+
+all benchmarks completed
+ok ~3.96 s (3 s + 960051654 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 446746428 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 446746428 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 514378783 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 514378783 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 472026016 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 472026016 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.73 s (3 s + 727684003 ns)
+
+all benchmarks completed
+ok ~3.73 s (3 s + 727684003 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.56 s (3 s + 564648269 ns)
+
+all benchmarks completed
+ok ~3.56 s (3 s + 564648269 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.59 s (3 s + 593251161 ns)
+
+all benchmarks completed
+ok ~3.59 s (3 s + 593251161 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.57 s (3 s + 571896234 ns)
+
+all benchmarks completed
+ok ~3.57 s (3 s + 571896234 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.93 s (3 s + 932506369 ns)
+
+all benchmarks completed
+ok ~3.93 s (3 s + 932506369 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 440333155 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 440333155 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.69 s (3 s + 687515387 ns)
+
+all benchmarks completed
+ok ~3.69 s (3 s + 687515387 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.8 s (3 s + 802152244 ns)
+
+all benchmarks completed
+ok ~3.8 s (3 s + 802152244 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.76 s (3 s + 759720392 ns)
+
+all benchmarks completed
+ok ~3.76 s (3 s + 759720392 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.32 s (3 s + 319988893 ns)
+
+all benchmarks completed
+ok ~3.32 s (3 s + 319988893 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.91 s (3 s + 905077281 ns)
+
+all benchmarks completed
+ok ~3.91 s (3 s + 905077281 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.97 s (3 s + 967151270 ns)
+
+all benchmarks completed
+ok ~3.97 s (3 s + 967151270 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.78 s (3 s + 779984905 ns)
+
+all benchmarks completed
+ok ~3.78 s (3 s + 779984905 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.82 s (3 s + 818074350 ns)
+
+all benchmarks completed
+ok ~3.82 s (3 s + 818074350 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.65 s (3 s + 647867221 ns)
+
+all benchmarks completed
+ok ~3.65 s (3 s + 647867221 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.88 s (3 s + 883627935 ns)
+
+all benchmarks completed
+ok ~3.88 s (3 s + 883627935 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.68 s (3 s + 682602520 ns)
+
+all benchmarks completed
+ok ~3.68 s (3 s + 682602520 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.73 s (3 s + 730516763 ns)
+
+all benchmarks completed
+ok ~3.73 s (3 s + 730516763 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.75 s (3 s + 745397227 ns)
+
+all benchmarks completed
+ok ~3.75 s (3 s + 745397227 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.56 s (3 s + 558887062 ns)
+
+all benchmarks completed
+ok ~3.56 s (3 s + 558887062 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.95 s (3 s + 954822870 ns)
+
+all benchmarks completed
+ok ~3.95 s (3 s + 954822870 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 451083959 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 451083959 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 439815454 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 439815454 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.42 s (3 s + 415612568 ns)
+
+all benchmarks completed
+ok ~3.42 s (3 s + 415612568 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 378334429 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 378334429 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 518261032 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 518261032 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.46 s (3 s + 455107445 ns)
+
+all benchmarks completed
+ok ~3.46 s (3 s + 455107445 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.58 s (3 s + 579038102 ns)
+
+all benchmarks completed
+ok ~3.58 s (3 s + 579038102 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.58 s (3 s + 575746143 ns)
+
+all benchmarks completed
+ok ~3.58 s (3 s + 575746143 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.27 s (3 s + 274247401 ns)
+
+all benchmarks completed
+ok ~3.27 s (3 s + 274247401 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.58 s (3 s + 582988147 ns)
+
+all benchmarks completed
+ok ~3.58 s (3 s + 582988147 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 448013195 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 448013195 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.26 s (3 s + 261326289 ns)
+
+all benchmarks completed
+ok ~3.26 s (3 s + 261326289 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 387551936 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 387551936 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.25 s (3 s + 253672632 ns)
+
+all benchmarks completed
+ok ~3.25 s (3 s + 253672632 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.35 s (3 s + 350700105 ns)
+
+all benchmarks completed
+ok ~3.35 s (3 s + 350700105 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.32 s (3 s + 322548983 ns)
+
+all benchmarks completed
+ok ~3.32 s (3 s + 322548983 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.43 s (3 s + 434621975 ns)
+
+all benchmarks completed
+ok ~3.43 s (3 s + 434621975 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 325922283 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 325922283 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.77 s (3 s + 771532566 ns)
+
+all benchmarks completed
+ok ~3.77 s (3 s + 771532566 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.76 s (3 s + 759598883 ns)
+
+all benchmarks completed
+ok ~3.76 s (3 s + 759598883 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.94 s (3 s + 937702750 ns)
+
+all benchmarks completed
+ok ~3.94 s (3 s + 937702750 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.8 s (3 s + 802959105 ns)
+
+all benchmarks completed
+ok ~3.8 s (3 s + 802959105 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~5.27 s (5 s + 270561814 ns)
+
+all benchmarks completed
+ok ~5.27 s (5 s + 270561814 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.53 s (3 s + 526612580 ns)
+
+all benchmarks completed
+ok ~3.53 s (3 s + 526612580 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.65 s (3 s + 647785241 ns)
+
+all benchmarks completed
+ok ~3.65 s (3 s + 647785241 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.24 s (3 s + 244141871 ns)
+
+all benchmarks completed
+ok ~3.24 s (3 s + 244141871 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.61 s (3 s + 613370191 ns)
+
+all benchmarks completed
+ok ~3.61 s (3 s + 613370191 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.4 s (3 s + 396637678 ns)
+
+all benchmarks completed
+ok ~3.4 s (3 s + 396637678 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.26 s (3 s + 257416760 ns)
+
+all benchmarks completed
+ok ~3.26 s (3 s + 257416760 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.11 s (3 s + 108038668 ns)
+
+all benchmarks completed
+ok ~3.11 s (3 s + 108038668 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 482411466 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 482411466 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.71 s (3 s + 707019382 ns)
+
+all benchmarks completed
+ok ~3.71 s (3 s + 707019382 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.59 s (3 s + 590217048 ns)
+
+all benchmarks completed
+ok ~3.59 s (3 s + 590217048 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.58 s (3 s + 584110447 ns)
+
+all benchmarks completed
+ok ~3.58 s (3 s + 584110447 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 513848642 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 513848642 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 366928291 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 366928291 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.43 s (3 s + 434301371 ns)
+
+all benchmarks completed
+ok ~3.43 s (3 s + 434301371 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~4.19 s (4 s + 193236488 ns)
+
+all benchmarks completed
+ok ~4.19 s (4 s + 193236488 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 443776231 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 443776231 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 329038636 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 329038636 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.57 s (3 s + 572062411 ns)
+
+all benchmarks completed
+ok ~3.57 s (3 s + 572062411 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.42 s (3 s + 419443210 ns)
+
+all benchmarks completed
+ok ~3.42 s (3 s + 419443210 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.58 s (3 s + 583218867 ns)
+
+all benchmarks completed
+ok ~3.58 s (3 s + 583218867 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.46 s (3 s + 455998835 ns)
+
+all benchmarks completed
+ok ~3.46 s (3 s + 455998835 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 365637602 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 365637602 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 439359450 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 439359450 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 494777052 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 494777052 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 387617365 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 387617365 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 524092686 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 524092686 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 442301533 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 442301533 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 388351021 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 388351021 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.54 s (3 s + 544228206 ns)
+
+all benchmarks completed
+ok ~3.54 s (3 s + 544228206 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.26 s (3 s + 257829194 ns)
+
+all benchmarks completed
+ok ~3.26 s (3 s + 257829194 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~4.72 s (4 s + 718234959 ns)
+
+all benchmarks completed
+ok ~4.72 s (4 s + 718234959 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 449048599 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 449048599 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 407133256 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 407133256 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 447796308 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 447796308 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 491123626 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 491123626 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.29 s (3 s + 287443994 ns)
+
+all benchmarks completed
+ok ~3.29 s (3 s + 287443994 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 360718890 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 360718890 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.66 s (3 s + 663412304 ns)
+
+all benchmarks completed
+ok ~3.66 s (3 s + 663412304 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 476442267 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 476442267 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 373137906 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 373137906 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.42 s (3 s + 421863559 ns)
+
+all benchmarks completed
+ok ~3.42 s (3 s + 421863559 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.34 s (3 s + 335043181 ns)
+
+all benchmarks completed
+ok ~3.34 s (3 s + 335043181 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.5 s (3 s + 496687105 ns)
+
+all benchmarks completed
+ok ~3.5 s (3 s + 496687105 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.29 s (3 s + 294521668 ns)
+
+all benchmarks completed
+ok ~3.29 s (3 s + 294521668 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 476035891 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 476035891 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 386728836 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 386728836 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.28 s (3 s + 281787456 ns)
+
+all benchmarks completed
+ok ~3.28 s (3 s + 281787456 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.77 s (3 s + 773899180 ns)
+
+all benchmarks completed
+ok ~3.77 s (3 s + 773899180 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 444823931 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 444823931 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 384753577 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 384753577 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.61 s (3 s + 612865856 ns)
+
+all benchmarks completed
+ok ~3.61 s (3 s + 612865856 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.59 s (3 s + 589333718 ns)
+
+all benchmarks completed
+ok ~3.59 s (3 s + 589333718 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 453493954 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 453493954 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 371646112 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 371646112 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 478556746 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 478556746 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.77 s (3 s + 769139053 ns)
+
+all benchmarks completed
+ok ~3.77 s (3 s + 769139053 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.32 s (3 s + 316799552 ns)
+
+all benchmarks completed
+ok ~3.32 s (3 s + 316799552 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 447379431 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 447379431 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.71 s (3 s + 712761094 ns)
+
+all benchmarks completed
+ok ~3.71 s (3 s + 712761094 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.46 s (3 s + 461055002 ns)
+
+all benchmarks completed
+ok ~3.46 s (3 s + 461055002 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.32 s (3 s + 324805618 ns)
+
+all benchmarks completed
+ok ~3.32 s (3 s + 324805618 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 482110171 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 482110171 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 379539054 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 379539054 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.32 s (3 s + 322906223 ns)
+
+all benchmarks completed
+ok ~3.32 s (3 s + 322906223 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 448505042 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 448505042 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.42 s (3 s + 422181934 ns)
+
+all benchmarks completed
+ok ~3.42 s (3 s + 422181934 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.18 s (3 s + 175959946 ns)
+
+all benchmarks completed
+ok ~3.18 s (3 s + 175959946 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.61 s (3 s + 610437922 ns)
+
+all benchmarks completed
+ok ~3.61 s (3 s + 610437922 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.57 s (3 s + 573039793 ns)
+
+all benchmarks completed
+ok ~3.57 s (3 s + 573039793 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.65 s (3 s + 653207313 ns)
+
+all benchmarks completed
+ok ~3.65 s (3 s + 653207313 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 407252005 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 407252005 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.6 s (3 s + 599053438 ns)
+
+all benchmarks completed
+ok ~3.6 s (3 s + 599053438 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.01 s (3 s + 8800927 ns)
+
+all benchmarks completed
+ok ~3.01 s (3 s + 8800927 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 512111290 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 512111290 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.75 s (3 s + 746831091 ns)
+
+all benchmarks completed
+ok ~3.75 s (3 s + 746831091 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~5.02 s (5 s + 19335160 ns)
+
+all benchmarks completed
+ok ~5.02 s (5 s + 19335160 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.76 s (3 s + 763776465 ns)
+
+all benchmarks completed
+ok ~3.76 s (3 s + 763776465 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.53 s (3 s + 530271678 ns)
+
+all benchmarks completed
+ok ~3.53 s (3 s + 530271678 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.51 s (3 s + 514474708 ns)
+
+all benchmarks completed
+ok ~3.51 s (3 s + 514474708 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.2 s (3 s + 203659721 ns)
+
+all benchmarks completed
+ok ~3.2 s (3 s + 203659721 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 378428920 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 378428920 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.11 s (3 s + 109515599 ns)
+
+all benchmarks completed
+ok ~3.11 s (3 s + 109515599 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.26 s (3 s + 261889513 ns)
+
+all benchmarks completed
+ok ~3.26 s (3 s + 261889513 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.23 s (3 s + 234222466 ns)
+
+all benchmarks completed
+ok ~3.23 s (3 s + 234222466 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 471919744 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 471919744 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.26 s (3 s + 258413875 ns)
+
+all benchmarks completed
+ok ~3.26 s (3 s + 258413875 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 381815086 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 381815086 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.35 s (3 s + 346774254 ns)
+
+all benchmarks completed
+ok ~3.35 s (3 s + 346774254 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 477267537 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 477267537 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 480715512 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 480715512 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 521773384 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 521773384 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.35 s (3 s + 352838916 ns)
+
+all benchmarks completed
+ok ~3.35 s (3 s + 352838916 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.19 s (3 s + 192227441 ns)
+
+all benchmarks completed
+ok ~3.19 s (3 s + 192227441 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 383065930 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 383065930 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.17 s (3 s + 168338571 ns)
+
+all benchmarks completed
+ok ~3.17 s (3 s + 168338571 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.54 s (3 s + 535288942 ns)
+
+all benchmarks completed
+ok ~3.54 s (3 s + 535288942 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.22 s (3 s + 220998423 ns)
+
+all benchmarks completed
+ok ~3.22 s (3 s + 220998423 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.21 s (3 s + 205739169 ns)
+
+all benchmarks completed
+ok ~3.21 s (3 s + 205739169 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 358078158 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 358078158 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.19 s (3 s + 190739897 ns)
+
+all benchmarks completed
+ok ~3.19 s (3 s + 190739897 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.21 s (3 s + 211852067 ns)
+
+all benchmarks completed
+ok ~3.21 s (3 s + 211852067 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 405991185 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 405991185 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.21 s (3 s + 210915497 ns)
+
+all benchmarks completed
+ok ~3.21 s (3 s + 210915497 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 325452618 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 325452618 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 478047125 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 478047125 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 357927333 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 357927333 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 410468162 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 410468162 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.4 s (3 s + 398519974 ns)
+
+all benchmarks completed
+ok ~3.4 s (3 s + 398519974 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.48 s (3 s + 481004581 ns)
+
+all benchmarks completed
+ok ~3.48 s (3 s + 481004581 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.28 s (3 s + 281627212 ns)
+
+all benchmarks completed
+ok ~3.28 s (3 s + 281627212 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 390750282 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 390750282 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.57 s (3 s + 569758964 ns)
+
+all benchmarks completed
+ok ~3.57 s (3 s + 569758964 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.35 s (3 s + 347681210 ns)
+
+all benchmarks completed
+ok ~3.35 s (3 s + 347681210 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 366979953 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 366979953 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.1 s (3 s + 98302361 ns)
+
+all benchmarks completed
+ok ~3.1 s (3 s + 98302361 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 520072822 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 520072822 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.56 s (3 s + 562910421 ns)
+
+all benchmarks completed
+ok ~3.56 s (3 s + 562910421 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 520188180 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 520188180 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 387773404 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 387773404 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.29 s (3 s + 289913601 ns)
+
+all benchmarks completed
+ok ~3.29 s (3 s + 289913601 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 393693218 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 393693218 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.29 s (3 s + 287753753 ns)
+
+all benchmarks completed
+ok ~3.29 s (3 s + 287753753 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.42 s (3 s + 419404091 ns)
+
+all benchmarks completed
+ok ~3.42 s (3 s + 419404091 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 377539098 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 377539098 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.24 s (3 s + 235718334 ns)
+
+all benchmarks completed
+ok ~3.24 s (3 s + 235718334 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 490159043 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 490159043 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 328017402 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 328017402 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.37 s (3 s + 367422208 ns)
+
+all benchmarks completed
+ok ~3.37 s (3 s + 367422208 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.23 s (3 s + 228597288 ns)
+
+all benchmarks completed
+ok ~3.23 s (3 s + 228597288 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 466519706 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 466519706 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.27 s (3 s + 270726019 ns)
+
+all benchmarks completed
+ok ~3.27 s (3 s + 270726019 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 486151249 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 486151249 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.04 s (3 s + 42032964 ns)
+
+all benchmarks completed
+ok ~3.04 s (3 s + 42032964 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 443029703 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 443029703 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~5.15 s (5 s + 148044514 ns)
+
+all benchmarks completed
+ok ~5.15 s (5 s + 148044514 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 386082515 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 386082515 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.13 s (3 s + 133282703 ns)
+
+all benchmarks completed
+ok ~3.13 s (3 s + 133282703 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.22 s (3 s + 223233078 ns)
+
+all benchmarks completed
+ok ~3.22 s (3 s + 223233078 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.54 s (3 s + 543271961 ns)
+
+all benchmarks completed
+ok ~3.54 s (3 s + 543271961 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 327198992 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 327198992 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~2.99 s (2 s + 991598023 ns)
+
+all benchmarks completed
+ok ~2.99 s (2 s + 991598023 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 363738029 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 363738029 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.43 s (3 s + 429189962 ns)
+
+all benchmarks completed
+ok ~3.43 s (3 s + 429189962 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.15 s (3 s + 151570290 ns)
+
+all benchmarks completed
+ok ~3.15 s (3 s + 151570290 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 363112527 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 363112527 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 358920295 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 358920295 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.53 s (3 s + 525523062 ns)
+
+all benchmarks completed
+ok ~3.53 s (3 s + 525523062 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.34 s (3 s + 340493497 ns)
+
+all benchmarks completed
+ok ~3.34 s (3 s + 340493497 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 443934209 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 443934209 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.56 s (3 s + 564213784 ns)
+
+all benchmarks completed
+ok ~3.56 s (3 s + 564213784 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.42 s (3 s + 417057906 ns)
+
+all benchmarks completed
+ok ~3.42 s (3 s + 417057906 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.35 s (3 s + 352053477 ns)
+
+all benchmarks completed
+ok ~3.35 s (3 s + 352053477 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 363872810 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 363872810 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.53 s (3 s + 533254546 ns)
+
+all benchmarks completed
+ok ~3.53 s (3 s + 533254546 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.07 s (3 s + 74853902 ns)
+
+all benchmarks completed
+ok ~3.07 s (3 s + 74853902 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 333451772 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 333451772 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 412548219 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 412548219 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 385749178 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 385749178 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 473927115 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 473927115 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 473986236 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 473986236 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.29 s (3 s + 286554131 ns)
+
+all benchmarks completed
+ok ~3.29 s (3 s + 286554131 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 494714037 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 494714037 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 444625661 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 444625661 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.27 s (3 s + 274026819 ns)
+
+all benchmarks completed
+ok ~3.27 s (3 s + 274026819 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.26 s (3 s + 260707099 ns)
+
+all benchmarks completed
+ok ~3.26 s (3 s + 260707099 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.34 s (3 s + 335062411 ns)
+
+all benchmarks completed
+ok ~3.34 s (3 s + 335062411 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.29 s (3 s + 290075410 ns)
+
+all benchmarks completed
+ok ~3.29 s (3 s + 290075410 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.36 s (3 s + 359962142 ns)
+
+all benchmarks completed
+ok ~3.36 s (3 s + 359962142 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.6 s (3 s + 596859579 ns)
+
+all benchmarks completed
+ok ~3.6 s (3 s + 596859579 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.7 s (3 s + 701028033 ns)
+
+all benchmarks completed
+ok ~3.7 s (3 s + 701028033 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.8 s (3 s + 804367424 ns)
+
+all benchmarks completed
+ok ~3.8 s (3 s + 804367424 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.39 s (3 s + 394395230 ns)
+
+all benchmarks completed
+ok ~3.39 s (3 s + 394395230 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 452308923 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 452308923 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.19 s (3 s + 185260462 ns)
+
+all benchmarks completed
+ok ~3.19 s (3 s + 185260462 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.63 s (3 s + 625033706 ns)
+
+all benchmarks completed
+ok ~3.63 s (3 s + 625033706 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.46 s (3 s + 462118830 ns)
+
+all benchmarks completed
+ok ~3.46 s (3 s + 462118830 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~5.51 s (5 s + 514283719 ns)
+
+all benchmarks completed
+ok ~5.51 s (5 s + 514283719 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.09 s (3 s + 89071430 ns)
+
+all benchmarks completed
+ok ~3.09 s (3 s + 89071430 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.55 s (3 s + 554515043 ns)
+
+all benchmarks completed
+ok ~3.55 s (3 s + 554515043 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.59 s (3 s + 589891450 ns)
+
+all benchmarks completed
+ok ~3.59 s (3 s + 589891450 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 377398532 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 377398532 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 521726942 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 521726942 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.53 s (3 s + 526990524 ns)
+
+all benchmarks completed
+ok ~3.53 s (3 s + 526990524 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.44 s (3 s + 437525572 ns)
+
+all benchmarks completed
+ok ~3.44 s (3 s + 437525572 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.28 s (3 s + 278421047 ns)
+
+all benchmarks completed
+ok ~3.28 s (3 s + 278421047 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.22 s (3 s + 215825761 ns)
+
+all benchmarks completed
+ok ~3.22 s (3 s + 215825761 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.29 s (3 s + 291935905 ns)
+
+all benchmarks completed
+ok ~3.29 s (3 s + 291935905 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.41 s (3 s + 407097455 ns)
+
+all benchmarks completed
+ok ~3.41 s (3 s + 407097455 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.3 s (3 s + 302914804 ns)
+
+all benchmarks completed
+ok ~3.3 s (3 s + 302914804 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.09 s (3 s + 94106754 ns)
+
+all benchmarks completed
+ok ~3.09 s (3 s + 94106754 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.26 s (3 s + 262997804 ns)
+
+all benchmarks completed
+ok ~3.26 s (3 s + 262997804 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.3 s (3 s + 301293880 ns)
+
+all benchmarks completed
+ok ~3.3 s (3 s + 301293880 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.61 s (3 s + 610722302 ns)
+
+all benchmarks completed
+ok ~3.61 s (3 s + 610722302 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.6 s (3 s + 595761790 ns)
+
+all benchmarks completed
+ok ~3.6 s (3 s + 595761790 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.53 s (3 s + 531349653 ns)
+
+all benchmarks completed
+ok ~3.53 s (3 s + 531349653 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.28 s (3 s + 277493702 ns)
+
+all benchmarks completed
+ok ~3.28 s (3 s + 277493702 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.46 s (3 s + 464514473 ns)
+
+all benchmarks completed
+ok ~3.46 s (3 s + 464514473 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.83 s (3 s + 829218427 ns)
+
+all benchmarks completed
+ok ~3.83 s (3 s + 829218427 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.69 s (3 s + 689984398 ns)
+
+all benchmarks completed
+ok ~3.69 s (3 s + 689984398 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.31 s (3 s + 305181133 ns)
+
+all benchmarks completed
+ok ~3.31 s (3 s + 305181133 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~4.09 s (4 s + 86019012 ns)
+
+all benchmarks completed
+ok ~4.09 s (4 s + 86019012 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~4.16 s (4 s + 162069195 ns)
+
+all benchmarks completed
+ok ~4.16 s (4 s + 162069195 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.33 s (3 s + 325475491 ns)
+
+all benchmarks completed
+ok ~3.33 s (3 s + 325475491 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.75 s (3 s + 748181699 ns)
+
+all benchmarks completed
+ok ~3.75 s (3 s + 748181699 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.59 s (3 s + 594585215 ns)
+
+all benchmarks completed
+ok ~3.59 s (3 s + 594585215 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.6 s (3 s + 596908481 ns)
+
+all benchmarks completed
+ok ~3.6 s (3 s + 596908481 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.95 s (3 s + 954795830 ns)
+
+all benchmarks completed
+ok ~3.95 s (3 s + 954795830 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.64 s (3 s + 639983277 ns)
+
+all benchmarks completed
+ok ~3.64 s (3 s + 639983277 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.49 s (3 s + 493077531 ns)
+
+all benchmarks completed
+ok ~3.49 s (3 s + 493077531 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.57 s (3 s + 573185667 ns)
+
+all benchmarks completed
+ok ~3.57 s (3 s + 573185667 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.52 s (3 s + 517249727 ns)
+
+all benchmarks completed
+ok ~3.52 s (3 s + 517249727 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~4.16 s (4 s + 164841177 ns)
+
+all benchmarks completed
+ok ~4.16 s (4 s + 164841177 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.4 s (3 s + 403535680 ns)
+
+all benchmarks completed
+ok ~3.4 s (3 s + 403535680 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.56 s (3 s + 559312022 ns)
+
+all benchmarks completed
+ok ~3.56 s (3 s + 559312022 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.63 s (3 s + 631113320 ns)
+
+all benchmarks completed
+ok ~3.63 s (3 s + 631113320 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.77 s (3 s + 773147536 ns)
+
+all benchmarks completed
+ok ~3.77 s (3 s + 773147536 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.5 s (3 s + 500719385 ns)
+
+all benchmarks completed
+ok ~3.5 s (3 s + 500719385 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.4 s (3 s + 403496398 ns)
+
+all benchmarks completed
+ok ~3.4 s (3 s + 403496398 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.67 s (3 s + 673850173 ns)
+
+all benchmarks completed
+ok ~3.67 s (3 s + 673850173 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.7 s (3 s + 699648270 ns)
+
+all benchmarks completed
+ok ~3.7 s (3 s + 699648270 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.47 s (3 s + 474855019 ns)
+
+all benchmarks completed
+ok ~3.47 s (3 s + 474855019 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.61 s (3 s + 607468027 ns)
+
+all benchmarks completed
+ok ~3.61 s (3 s + 607468027 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.45 s (3 s + 452053068 ns)
+
+all benchmarks completed
+ok ~3.45 s (3 s + 452053068 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.6 s (3 s + 602501337 ns)
+
+all benchmarks completed
+ok ~3.6 s (3 s + 602501337 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.54 s (3 s + 540916943 ns)
+
+all benchmarks completed
+ok ~3.54 s (3 s + 540916943 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
+ok ~3.38 s (3 s + 379115871 ns)
+
+all benchmarks completed
+ok ~3.38 s (3 s + 379115871 ns)
+
+NANOBENCH version 2
+> /usr/bin/node test/bench.js
+
+# upload 5 pics 1024/1980
